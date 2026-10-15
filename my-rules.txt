@@ -8,7 +8,6 @@
 
 ! 核心功能白名单
 @@||client.app.coc.10086.cn^
-@@||h.app.coc.10086.cn^
 @@||res.app.coc.10086.cn^
 @@||apm.app.coc.10086.cn^
 @@||cmpassport.com^
