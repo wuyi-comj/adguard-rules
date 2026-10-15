@@ -1,0 +1,15 @@
+! 开屏广告拦截
+||dutils.com^
+||hiaiabc.com^
+||yksdks.com^
+||v6-api-share.mob.com^
+||jiguang.coc.10086.cn^
+||log.tbs.qq.com^
+
+! 核心功能白名单
+@@||client.app.coc.10086.cn^
+@@||h.app.coc.10086.cn^
+@@||res.app.coc.10086.cn^
+@@||apm.app.coc.10086.cn^
+@@||cmpassport.com^
+@@||id6.me^
